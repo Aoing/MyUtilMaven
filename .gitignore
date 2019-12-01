@@ -1,0 +1,3 @@
+# Project exclude paths
+/upLoadPicClient/target/
+/upLoadPicServer/target/
